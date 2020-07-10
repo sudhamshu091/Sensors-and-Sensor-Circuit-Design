@@ -7,17 +7,21 @@ Ans:It can measure lower temperatures than NTC temperature
     It can measure higher temperatures than NTC temperature
 3.Question 3
 Which of the following is true about an NTC thermistor?
+Ans:It has excellent accuracy of 0.1%-0.2%
 4.Question 4
 What is the Steinhart Hart Equation?
-A highly nonlinear equation that models the behavior of thermistors
+Ans:A highly nonlinear equation that models the behavior of thermistors
 5.Question 5
 Which fact is not true about RTD’s?
+Ans:They have a temperature coefficient of resistance (TCR) of 3.85 Ω/Ω/°C
 6.Question 6
 Suppose we include the lead resistance in the calculation of temperature for an RTD. If R 3 = 5000 ohms, R a = 50 ohms, V 0 = 3 volts, and V = 6.5 volts, what is R? (Type in a one-decimal number.)
+Ans:150 ohm
 7.Question 7
 What happens if you don’t perform cold junction compensation in a thermocouple circuit?
 8.Question 8
 Which is the most common thermocouple in use?
+Ans:Type K
 9.Question 9
 In what temperature measurement applications are thermocouples used? (select all that apply)
 Ans:Where a large number of measurement points are needed, and you need to keep the total cost of the sensors down
@@ -27,6 +31,7 @@ Ans:Where a large number of measurement points are needed, and you need to keep 
 10.Question 10
 You are using a 2252Ω thermistor, β = 3940, and you measure a resistance of 672.5 ohms. What is the temperature in °C that you are measuring?
 (Type in a one-decimal number)
+Ans:55.2
 
 
 
