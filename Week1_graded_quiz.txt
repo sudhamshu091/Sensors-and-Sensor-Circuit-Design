@@ -19,6 +19,9 @@ Suppose we include the lead resistance in the calculation of temperature for an 
 Ans:150 ohm
 7.Question 7
 What happens if you don’t perform cold junction compensation in a thermocouple circuit?
+Ans:7.Question 7
+What happens if you don’t perform cold junction compensation in a thermocouple circuit?
+Ans:The temperature reading will be inaccurate because you have no way to compensate the circuit for thermoelectric voltages created at the junctions of dissimilar metals.
 8.Question 8
 Which is the most common thermocouple in use?
 Ans:Type K
