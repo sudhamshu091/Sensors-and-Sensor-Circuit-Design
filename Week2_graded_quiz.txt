@@ -1,6 +1,6 @@
 1.Question 1
 Which of the following files are stored in the Workplace Explorer Module of the Cypress PSOC Creator 4 workspace?
-Ans:
+Ans:All of the files related to your project
 2.Question 2
 Under which circumstances will you need to use an oscilloscope or an nScope with your PSOC system? There are multiple correct answers.
 Ans:To study the low frequency sensor noise in a system before and after an RC filter.
@@ -20,13 +20,13 @@ Ans:Threshold (CMOS, LVTTL, Vddio, etc.)
     Sync Mode (Double-sync, transparent)
 7.Question 7
 How would you compare the resolution of the PSoC Delta Sigma ADC to that of the PSoC SAR ADC?
-Ans:
+Ans:The Delta Sigma ADC resolution can be configured between 8 and 20 bits in intervals of 1, while that of the SAR ADC can be configured to 8, 10, or 12 bits.
 8.Question 8
 How do you connect a pin on the schematic to a physical pin on the PsoC development kit?
 Ans:Pin mapping is done in the pins tab (selected from workspace explorer). You click on the “Port” and “Pin” drop down, and select the appropriate port and pin number. Then the physical pins are connected to the pins in the schematic.
 9.Question 9
 What are some of the obvious differences between the nScope and a typical oscilloscope found in an engineering laboratory?
-Ans:
+Ans:The fastest sweep rate of nscope is 10us/div
 10.Question 10
 Which one of these items are commonly used LCD API in the PSoC system (assume the “instance name” has been configured to be just “LCD” on the schematic)?
 Ans:All the above(Insert the function LCD_Start () into main.c
