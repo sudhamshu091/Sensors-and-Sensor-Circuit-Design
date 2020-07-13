@@ -1,0 +1,42 @@
+1.Question 1
+Which of the following files are stored in the Workplace Explorer Module of the Cypress PSOC Creator 4 workspace?
+Ans:
+2.Question 2
+Under which circumstances will you need to use an oscilloscope or an nScope with your PSOC system? There are multiple correct answers.
+Ans:To study the low frequency sensor noise in a system before and after an RC filter.
+    To study the sensor noise in a system before and after any type of purely hardware filter.
+3.Question 3
+What code is stored in the PSoC file main.c when you first start your project?
+4.Question 4
+Which of the following is not an on-board component, available for selection from the Cypress Component Catalog?
+Ans:16 gigabyte memory
+5.Question 5
+Which of the following is not an off-chip component, available for selection from the Cypress Component Catalog?
+Ans:Motor Controller
+6.Question 6
+Which items are configurable for a digital pin in the PSoC system? There are multiple correct answers.
+Ans:Threshold (CMOS, LVTTL, Vddio, etc.)
+    Interrupt (Rising edge, Falling edge, etc.)
+    Sync Mode (Double-sync, transparent)
+7.Question 7
+How would you compare the resolution of the PSoC Delta Sigma ADC to that of the PSoC SAR ADC?
+Ans:
+8.Question 8
+How do you connect a pin on the schematic to a physical pin on the PsoC development kit?
+Ans:Pin mapping is done in the pins tab (selected from workspace explorer). You click on the “Port” and “Pin” drop down, and select the appropriate port and pin number. Then the physical pins are connected to the pins in the schematic.
+9.Question 9
+What are some of the obvious differences between the nScope and a typical oscilloscope found in an engineering laboratory?
+Ans:
+10.Question 10
+Which one of these items are commonly used LCD API in the PSoC system (assume the “instance name” has been configured to be just “LCD” on the schematic)?
+Ans:All the above(Insert the function LCD_Start () into main.c
+                  Write a string of characters (contained in double quotes) to the LCD using LCD_PrintString ())
+                  
+
+
+
+
+
+
+
+
